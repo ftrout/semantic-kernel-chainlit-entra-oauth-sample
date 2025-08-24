@@ -1,1 +1,1 @@
-![Sign In Page](screenshot.png "Sign In Page")
+![Sign In Page](Screenshot.png "Sign In Page")
